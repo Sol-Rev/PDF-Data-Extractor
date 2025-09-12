@@ -1,6 +1,6 @@
 # PDF Data Extractor
 
-A Python-based tool for extracting structured data from PDF files. This project is designed to handle specific data extraction tasks, such as extracting tables or summaries, and exporting the results to Excel.
+A Python-based tool for extracting structured data from PDF files. This project is designed to handle specific data extraction tasks, such as extracting tables,particular data or summaries, and exporting the results to Excel.
 
 ## Features
 
